@@ -11,11 +11,9 @@ authors:
     given-names: Nome do aluno 4 
   - family-names: sobrenome do aluno 5
     given-names: Nome do aluno 5 
+  - family-names: sobrenome do aluno 6
+    given-names: Nome do aluno 6
     
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: De Paula
-    given-names: Hugo Bastos
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: Veloso
@@ -26,13 +24,9 @@ authors:
     given-names: Juliana Amaral 
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: Seufitelli
-    given-names: Danilo Boechat
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Silva
-    given-names: Luiz Henrique da Costa
-
+    family-names: Da Mota
+    given-names: Rosilane Ribeiro
+  
 cff-version: "1.1.0"
 keywords: 
   - "Modelagem de Processos de Negócios"
